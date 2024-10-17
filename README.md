@@ -1,6 +1,9 @@
 # checkm8
 Terminal Chess.
 
+# Installation
+pip install chess
+
 ### 1. **Basic Moves**:
 These are standard moves without capturing.
 
